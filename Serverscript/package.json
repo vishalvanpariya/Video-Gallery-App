@@ -1,0 +1,16 @@
+{
+  "name": "balnc",
+  "version": "1.0.0",
+  "description": "Uploding video in Server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Vishal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "multer": "^1.4.1",
+    "progress-stream": "^2.0.0"
+  }
+}
